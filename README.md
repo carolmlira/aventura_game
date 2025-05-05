@@ -15,6 +15,7 @@ Um jogo simples criado com PgZero, com sprites animados, inimigos patrulhando e 
    pgzrun jogo.py
 
 🎮 Como jogar
+
 Use as setas do teclado para mover o herói.
 
 Evite os inimigos! Se tocar em um deles, perde 1 vida.
