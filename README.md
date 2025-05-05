@@ -12,7 +12,8 @@ Um jogo simples criado com PgZero, com sprites animados, inimigos patrulhando e 
    ```bash
    pip install pgzero
    Rode o jogo com o comando:
-pgzrun jogo.py
+    ```bash
+   pgzrun jogo.py
 
 🎮 Como jogar
 Use as setas do teclado para mover o herói.
