@@ -18,7 +18,9 @@ Um jogo simples criado com PgZero, com sprites animados, inimigos patrulhando e 
 
 Use as setas do teclado para mover o herói.
 
-Evite os inimigos! Se tocar em um deles, perde 1 vida.
+Se tocar em um deles, perde 1 vida.
+
+Encoste nos inimigos para derrota-los, so cuidado para não perder todas as vidas!
 
 Você começa com 4 vidas.
 
